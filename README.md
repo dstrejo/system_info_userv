@@ -15,8 +15,8 @@ This Bash script gathers and displays various system information such as:
 
 ### USAGE
 
-The file should be granted executable permisisons -> **chmod +x system_info.sh or chmod 744 system_info.sh
+The file should be granted executable permisisons -> **chmod +x system_info.sh or chmod 744 system_info.sh**
 
-Run script -> **./system_info.sh
+Run script -> **./system_info.sh**
 
-Important: To be able to run the script from anywhere in your system, add it to the variable $PATH -> **PATH=$PATH:/* *'directory of the file'
+Important: To be able to run the script from anywhere in your system, add it to the variable $PATH -> **PATH=$PATH:/_'directory of the file'_**
